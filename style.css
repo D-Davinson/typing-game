@@ -1,0 +1,11 @@
+.quote{
+    background-color:crimson;
+}
+.highlight{
+    background-color: yellow;
+}
+
+.error{
+    background-color: lightcoral;
+    border: red;
+}
