@@ -1,3 +1,7 @@
+.body{
+    background-color: rgb(172, 36, 138);
+}
+
 .quote{
     background-color:crimson;
 }
@@ -8,3 +12,5 @@
 .error{
     background-color: rgb(232, 51, 51);
 }
+
+
